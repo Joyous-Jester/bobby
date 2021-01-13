@@ -1,2 +1,2 @@
 # bobby
-bot made using sparetime
+some bot i make with spare time
